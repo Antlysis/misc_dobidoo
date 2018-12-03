@@ -1,6 +1,6 @@
 module.exports = {
-	brand: "Otouch",
-	name: "SP",
+	brand: "DobiDoo",
+	name: "Bandar Baru Bangi",
 	cold10kg: 7,
 	cold14kg: 8,
 	cold20kg: 9,
@@ -13,9 +13,9 @@ module.exports = {
 	detPrice: 2,
 	softPrice: 2,
 	begPrice: 2,
-	clientID: "6188382817688918679",
-	clientSecret:"iadnVEpxMwyMdOFRzvsFTPUshHvmVLbP",
+	clientID: "8559245238100648952",
+	clientSecret:"nalDIAIZfMqMuKTvCksbplSNWhUUQIKl",
 	rptFolderID: "15HyQGwR3TquJLey13YS22ChGiMVdZpiQ",
 	crossOutletID: "1fcH7_0kv0ycaei4mh71MNKY1HRprdx2J",
-	url: "\"https://aortic-sheep-0060.dataplicity.io\""
+	url: "\"https://coronate-pademelon-4727.dataplicity.io\""
 }
