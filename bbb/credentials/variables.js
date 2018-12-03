@@ -1,31 +1,5 @@
 module.exports = {
-	// "467b712f6f3dd1baad34f7b11b75f7d1": {
- //        typeOfMachine: "IpsoWasher_W10kg",
- //        machineName: "SP-W1",
- //        active: false,
- //        sent: false,
- //        locked: false,
- //        amountPaid: 0,
- //        totalPaid: 0,
- //        wechatPaid: 0,
- //        totalWechat: 0,
- //        totalManual: 0,
- //        coinPaid: 0,
- //        manualPaid: 0,
- //        totalCoin: 0,
- //        totalRun: 0,
- //        coldRun: 0,
- //        warmRun: 0,
- //        otherRun: 0,
- //        hotRun: 0,
- //        doneTime: 0,
- //        startTime: 0,
- //        totalTime: 0,
- //        oneRunTime: 25,
- //        lockCounter: 0,
- //        version: 0,
-  //   },
-    "ff667ad6aeec13ca9b39a69ab1b327d4": {
+    "ac50337b17f6d2c2962d671e440acfbd": {
         typeOfMachine: "IpsoWasher_W10kg",
         machineName: "BBB-W1",
         active: false,
@@ -51,7 +25,7 @@ module.exports = {
         lockCounter: 0,
         version: 0,
     },
-    "afd3464a6b443af1ec65600881746d73": {
+    "19c1bd29f764c537a988aa5bfbbad44f": {
         typeOfMachine: "IpsoWasher_W10kg",
         machineName: "BBB-W2",
         active: false,
@@ -77,7 +51,7 @@ module.exports = {
         lockCounter: 0,
         version: 0,
     },
-    "b54537db3829bfcaad9ecf7079269477": {
+    "63edb3e28d1612b23b4ae71e8b4e97ec": {
        typeOfMachine: "ipso_dryer_D14kg",
        machineName: "BBB-D1",
        active: false,
@@ -99,7 +73,7 @@ module.exports = {
        lockCounter: 0,
        version: 0
     },
-    "b54537db3829bfcaad9ecf7079269477": {
+    "82cbe600a97858996a97ff1eccb7090c": {
        typeOfMachine: "ipso_dryer_D14kg",
        machineName: "BBB-D2",
        active: false,
@@ -121,7 +95,7 @@ module.exports = {
        lockCounter: 0,
        version: 0
     },
-    "b0b27916bde5eeef390f6d9c2b6f5419": {
+    "4ed12e0e2672bda7718278f7cf25df06": {
       typeOfMachine: "detergent",
       machineName: "BBB-V1",
       active: false,
