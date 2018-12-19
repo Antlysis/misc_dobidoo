@@ -1,6 +1,6 @@
 {
       "apps" : [{
-        "name"        : "PJCC",
+        "name"        : "BBB",
         "script"      : "./server.js",
         "watch_options": {
          	usePolling: true

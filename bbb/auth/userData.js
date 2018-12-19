@@ -1,7 +1,7 @@
 module.exports = {
 	users: [
 		{
-			username: "otouch_admin",
+			username: "dobidoo_admin",
 			password: "admin12345"
 		},
 		{
