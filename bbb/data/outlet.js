@@ -1,6 +1,6 @@
 module.exports = {
 	brand: "DobiDoo",
-	name: "Bandar Baru Bangi",
+	name: "BBB",
 	cold10kg: 7,
 	cold14kg: 8,
 	cold20kg: 9,
