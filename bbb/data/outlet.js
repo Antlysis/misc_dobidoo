@@ -15,7 +15,7 @@ module.exports = {
 	begPrice: 2,
 	clientID: "8559245238100648952",
 	clientSecret:"nalDIAIZfMqMuKTvCksbplSNWhUUQIKl",
-	rptFolderID: "15HyQGwR3TquJLey13YS22ChGiMVdZpiQ",
-	crossOutletID: "1fcH7_0kv0ycaei4mh71MNKY1HRprdx2J",
+	rptFolderID: "1XApyBaUUOsSjq1o5ANIrLsaDiLBhBRnJ",
+	crossOutletID: "1-bwsFPCVwUoB3rs9uTTSJ5xS2Gmlcujq",
 	url: "\"https://coronate-pademelon-4727.dataplicity.io\""
 }
