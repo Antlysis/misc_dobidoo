@@ -1,0 +1,6 @@
+"Title","Wechat_received","Coin_received","Total_Run","No_Cold_Run","No_Warm_Run","No_Hot_Run","No_Other_Run","Actual_Total_Run_Time_Top","Actual_Total_Run_Time_Bot","Actual_Total_Run_Time","Expected_Total_Run_Time","Total_Det","Total_Soft","Total_LB","Total_Bleach","Total_DrySoftener","machineCode","Date"
+"BBB-W1",0,154,14,0,0,0,14,0,0,351,350,0,0,0,0,0,"ac50337b17f6d2c2962d671e440acfbd","26/12/2018"
+"BBB-W2",0,115,18,0,8,3,7,0,0,436,450,0,0,0,0,0,"19c1bd29f764c537a988aa5bfbbad44f","26/12/2018"
+"BBB-D1",0,53.5,13,0,0,0,0,0,0,309,267.5,0,0,0,0,0,"63edb3e28d1612b23b4ae71e8b4e97ec","26/12/2018"
+"BBB-D2",0,88.5,22,0,0,0,0,0,0,479,442.5,0,0,0,0,0,"82cbe600a97858996a97ff1eccb7090c","26/12/2018"
+"BBB-V1",0,50.5,0,0,0,0,0,0,0,0,0,25,14,8,3,1,"4ed12e0e2672bda7718278f7cf25df06","26/12/2018"
